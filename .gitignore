@@ -1,0 +1,7 @@
+# Data lives in /Users/matt/energydata (13 GB); not for git
+data/
+# Regenerable model outputs; the write-up folder is kept
+output/*.parquet
+__pycache__/
+*.pyc
+.DS_Store
